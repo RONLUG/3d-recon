@@ -17,7 +17,7 @@ This project focused on improving [PIFuHD](https://github.com/facebookresearch/p
 
 **Clone repository**
 ```bash
-git clone git@github.com:RONLUG/3d-recon.git
+git clone https://github.com/RONLUG/3d-recon.git
 cd 3d-recon
 ```
 
