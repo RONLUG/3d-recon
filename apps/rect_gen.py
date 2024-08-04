@@ -20,7 +20,7 @@ import demo
 
 net = PoseEstimationWithMobileNet()
 
-checkpoint = torch.load('checkpoint_iter_370000.pth', map_location='cpu')
+checkpoint = torch.load('checkpoints/checkpoint_iter_370000.pth', map_location='cpu')
 
 load_state(net, checkpoint)
 

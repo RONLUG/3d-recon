@@ -36,7 +36,8 @@ sh ./scripts/setup.sh
 
 **Run sample test**
 ```bash
-sh ./scripts/quick_gen.sh
+sh ./scripts/preprocess.sh
+sh ./scripts/recon_gen.sh
 ```
 > For more Information about custom input, script arguments, and recommended custom preprocessing you can read in [this document](GUIDE.md)
 
