@@ -3,7 +3,7 @@ This project focused on improving [PIFuHD](https://github.com/facebookresearch/p
 
 ## Recommended preprocessing pipeline
 
-![PIFuHD Image processing](https://hackmd.io/_uploads/Skt9mmtFC.svg)
+![PIFuHD Image processing](./assets/image_processing_pipeline.svg)
 ## Quick start
 **Requirement**: CUDA supported GPU
 **Tested machine**: 
@@ -37,7 +37,7 @@ sh ./scripts/setup
 ```bash
 sh ./scripts/sample-test
 ```
-> For more Information about custom input, script arguments, and recommended custom preprocessing you can read in [this document]()
+> For more Information about custom input, script arguments, and recommended custom preprocessing you can read in [this document](GUIDE.md)
 
 ## Suitable Input image for PIFuHD
 - **Posture**
