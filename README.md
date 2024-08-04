@@ -19,6 +19,7 @@ This project focused on improving [PIFuHD](https://github.com/facebookresearch/p
 ```bash
 git clone https://github.com/RONLUG/3d-recon.git
 cd 3d-recon
+git submodule update --init --recursive
 ```
 
 **Setup environment**
@@ -30,12 +31,12 @@ pip install -r requirements.txt
 
 **Download pretrained models**
 ```bash
-sh ./scripts/setup
+sh ./scripts/setup.sh
 ```
 
 **Run sample test**
 ```bash
-sh ./scripts/sample-test
+sh ./scripts/quick_gen.sh
 ```
 > For more Information about custom input, script arguments, and recommended custom preprocessing you can read in [this document](GUIDE.md)
 

@@ -2,5 +2,11 @@
 __pycache__/
 *.py[cod]
 
-.DS_Store
+# Checkpoints
+checkpoints/
 
+# Environments
+venv/
+
+# OS cache
+.DS_Store
