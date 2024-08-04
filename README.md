@@ -2,7 +2,7 @@
 This project focused on improving [PIFuHD](https://github.com/facebookresearch/pifuhd) reconstruction results by exploring PIFuHD and experimenting with preprocessing methods on input images to make them more suitable for reconstruction.
 
 
-Basic preprocessing is handled in [`preprocess.sh`](./scripts/proprocess.sh), but additional preprocessing is recommended as needed for each image.
+Basic preprocessing is handled in [`preprocess.sh`](./scripts/preprocess.sh), but additional preprocessing is recommended as needed for each image.
 
 ## Recommended preprocessing pipeline
 ![PIFuHD Image processing](./assets/image_processing_pipeline.svg)
