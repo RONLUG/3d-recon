@@ -1,8 +1,3 @@
----
-title: Single view 3D reconstruction
-
----
-
 # Single view 3D reconstruction
 This project focused on improving [PIFuHD](https://github.com/facebookresearch/pifuhd) reconstruction result by experimenting preprocessing images before input them into the model to make images more suitable for generation
 

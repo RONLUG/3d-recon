@@ -1,8 +1,3 @@
----
-title: Script guide
-
----
-
 # Guide
 
 ## Project structure
