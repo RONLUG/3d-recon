@@ -14,3 +14,4 @@ PyOpenGL
 ffmpeg
 matplotlib
 pycocotools
+rembg
